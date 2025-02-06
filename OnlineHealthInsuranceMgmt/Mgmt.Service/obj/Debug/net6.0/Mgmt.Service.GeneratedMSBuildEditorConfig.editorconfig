@@ -1,0 +1,24 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = Mgmt.Service
+build_property.RootNamespace = Mgmt.Service
+build_property.ProjectDir = /Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Mgmt.Service/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Mgmt.Service
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Mgmt.Service/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Mgmt.Service/Component1.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50MS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-ls1l6f76py

@@ -1,0 +1,74 @@
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/obj/Debug/net6.0/Online Health Insurance Managerment.csproj.AssemblyReference.cache
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/obj/Debug/net6.0/Online Health Insurance Managerment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/obj/Debug/net6.0/Online Health Insurance Managerment.AssemblyInfoInputs.cache
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/obj/Debug/net6.0/Online Health Insurance Managerment.AssemblyInfo.cs
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/obj/Debug/net6.0/Online Health Insurance Managerment.csproj.CoreCompileInputs.cache
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/obj/Debug/net6.0/Online Health Insurance Managerment.MvcApplicationPartsAssemblyInfo.cs
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/obj/Debug/net6.0/Online Health Insurance Managerment.MvcApplicationPartsAssemblyInfo.cache
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/appsettings.Development.json
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/appsettings.json
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Online Health Insurance Managerment
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Online Health Insurance Managerment.deps.json
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Online Health Insurance Managerment.runtimeconfig.json
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Online Health Insurance Managerment.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Online Health Insurance Managerment.pdb
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Humanizer.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/MySqlConnector.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/System.Collections.Immutable.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/System.Runtime.CompilerServices.Unsafe.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/obj/Debug/net6.0/staticwebassets.build.json
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/obj/Debug/net6.0/staticwebassets.development.json
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/obj/Debug/net6.0/scopedcss/bundle/Online Health Insurance Managerment.styles.css
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/obj/Debug/net6.0/Online Health Insurance Managerment.csproj.CopyComplete
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/obj/Debug/net6.0/Online Health Insurance Managerment.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/obj/Debug/net6.0/refint/Online Health Insurance Managerment.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/obj/Debug/net6.0/Online Health Insurance Managerment.pdb
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/obj/Debug/net6.0/Online Health Insurance Managerment.genruntimeconfig.cache
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/obj/Debug/net6.0/ref/Online Health Insurance Managerment.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Mgmt.Service.staticwebassets.runtime.json
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Online Health Insurance Managerment.staticwebassets.runtime.json
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/MailKit.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.AspNetCore.Authorization.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.AspNetCore.Components.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.AspNetCore.Components.Forms.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.AspNetCore.Components.Web.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.AspNetCore.Metadata.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Microsoft.JSInterop.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/MimeKit.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/NETCore.MailKit.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/System.IO.Pipelines.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Mgmt.Service.dll
+/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/bin/Debug/net6.0/Mgmt.Service.pdb

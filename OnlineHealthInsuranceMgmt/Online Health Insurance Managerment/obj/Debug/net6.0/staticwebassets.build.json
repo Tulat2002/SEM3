@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "Hash": "2i8EV2Obltfpa5V1KPpVDLlUZouhTuix52svS5T1FYg=",
+  "Source": "Online Health Insurance Managerment",
+  "BasePath": "_content/Online Health Insurance Managerment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Mgmt.Service/Mgmt.Service.csproj",
+      "Version": 2,
+      "Source": "Mgmt.Service",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Mgmt.Service/wwwroot",
+      "Source": "Mgmt.Service",
+      "ContentRoot": "/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Mgmt.Service/wwwroot/",
+      "BasePath": "_content/Mgmt.Service",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Mgmt.Service/obj/Debug/net6.0/scopedcss/projectbundle/Mgmt.Service.bundle.scp.css",
+      "SourceId": "Mgmt.Service",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Mgmt.Service/obj/Debug/net6.0/scopedcss/projectbundle/",
+      "BasePath": "_content/Mgmt.Service",
+      "RelativePath": "Mgmt.Service.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Mgmt.Service/obj/Debug/net6.0/scopedcss/projectbundle/Mgmt.Service.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Mgmt.Service/wwwroot/background.png",
+      "SourceId": "Mgmt.Service",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Mgmt.Service/wwwroot/",
+      "BasePath": "_content/Mgmt.Service",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/background.png"
+    },
+    {
+      "Identity": "/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Mgmt.Service/wwwroot/exampleJsInterop.js",
+      "SourceId": "Mgmt.Service",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Mgmt.Service/wwwroot/",
+      "BasePath": "_content/Mgmt.Service",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/exampleJsInterop.js"
+    },
+    {
+      "Identity": "/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/obj/Debug/net6.0/scopedcss/bundle/Online Health Insurance Managerment.styles.css",
+      "SourceId": "Online Health Insurance Managerment",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/obj/Debug/net6.0/scopedcss/bundle/",
+      "BasePath": "_content/Online Health Insurance Managerment",
+      "RelativePath": "Online Health Insurance Managerment.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/luonganhtu/Documents/CSharp/OnlineHealthInsuranceMgmt/Online Health Insurance Managerment/obj/Debug/net6.0/scopedcss/bundle/Online Health Insurance Managerment.styles.css"
+    }
+  ]
+}
